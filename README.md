@@ -5,8 +5,8 @@ A repository containing an application and Dockerfile to use of Docker as Custom
 You can build and run the image with the following command:
 
 ```shell
-docker build -t mau-dev-env-node-template:v1 .
-docker run mau-dev-env-node-template:v1
+docker build -t mal-dev-env-node-template:v1 .
+docker run mal-dev-env-node-template:v1
 ```
 
 The application consists of a basic ExpressJS server and uses an intentionally old version of Express and Alpine base image.
