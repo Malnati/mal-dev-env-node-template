@@ -1,10 +1,10 @@
 {
-  "name": "@Malnati/mau-dev-env-node-template",
+  "name": "@Malnati/mal-dev-env-node-template",
   "version": "0.1.0",
   "description": "A boilerplate for Node.js web applications",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Malnati/mau-dev-env-node-template.git"
+    "url": "https://github.com/Malnati/mal-dev-env-node-template.git"
   },
   "license": "MIT",
   "scripts": {
