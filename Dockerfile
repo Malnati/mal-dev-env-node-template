@@ -16,8 +16,8 @@ RUN  apk add --no-cache npm \
  && npm cache clean --force \
  && apk del npm
  
-COPY . /app
+COPY . /com.docker.devenvironments.code
 
-CMD ["node","/app/app.js"]
+CMD ["node","/com.docker.devenvironments.code/app.js"]
 
 EXPOSE 3000
