@@ -2,7 +2,7 @@
 
 A repository containing an application and Dockerfile to use of Docker as Custom development env NodeJs template in a container image.
 
-Read the [Docker Scout Quickstart](https://docs.docker.com/scout/quickstart) for a full walkthrough. You can build and run the image with the following command:
+You can build and run the image with the following command:
 
 ```shell
 docker build -t mau-dev-env-node-template:v1 .
