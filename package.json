@@ -1,12 +1,12 @@
 {
-  "name": "@docker/scout-demo-service",
+  "name": "@Malnati/mau-dev-env-node-template",
   "version": "0.1.0",
   "description": "A boilerplate for Node.js web applications",
   "repository": {
     "type": "git",
-    "url": "https://github.com/docker/scout-demo-servixe.git"
+    "url": "https://github.com/Malnati/mau-dev-env-node-template.git"
   },
-  "license": "Apache-2",
+  "license": "MIT",
   "scripts": {
     "start": "node app.js",
     "test": "nyc mocha --timeout=10000 --exit",
